@@ -1,6 +1,6 @@
 ### Hi 👋
 - 🔭 I’m currently working on [ElementsKit](https://wordpress.org/plugins/elementskit-lite/), [GutenKit](https://wordpress.org/plugins/gutenkit-blocks-addon/) & [PopupKit](https://wordpress.org/plugins/popup-builder-block/) plugin
-- 🌱 I’m currently learning Interactivity API & Team building
+- 🌱 I’m currently learning [Interactivity API](https://developer.wordpress.org/block-editor/reference-guides/interactivity-api/) & Team building
 - 👯 I’m looking to collaborate on WordPress core
 - 💬 Ask me about WordPress, PHP, JavaScript
 - 📫 How to reach me: razonkumar@gmail.com
